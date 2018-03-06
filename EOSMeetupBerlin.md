@@ -31,3 +31,5 @@ und der globalen Community:
 - [https://steemit.com/@eosio](https://steemit.com/@eosio)
 
 - [https://forums.eosgo.io](https://forums.eosgo.io)
+
+- [https://t.me/EOSproject](https://t.me/EOSproject)
